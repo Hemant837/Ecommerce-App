@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "816628476817",
+    "firebase_url": "https://chatapp-88809.firebaseio.com",
+    "project_id": "chatapp-88809",
+    "storage_bucket": "chatapp-88809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816628476817:android:7f392e2d64b626ef200830",
+        "android_client_info": {
+          "package_name": "com.NxtGen.rico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816628476817-qp0l77j7a8dia6pqq9p3kundkdonk9g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLHRj_YqXGJsQUYEYeoOBGJDmp7Nlj2nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816628476817-qp0l77j7a8dia6pqq9p3kundkdonk9g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

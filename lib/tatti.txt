@@ -1,0 +1,51 @@
+child: ListView(
+                physics: BouncingScrollPhysics(),
+                scrollDirection: Axis.horizontal,
+                children: <Widget>[
+                  Card(
+                    elevation: 4,
+                    child: Padding(
+                      padding: EdgeInsets.all(50),
+                      child: Container(
+                        child: Text('Hello'),
+                      ),
+                    ),
+                  ),
+                  Padding(
+                    padding: EdgeInsets.only(left: 40),
+                    child: Card(
+                      elevation: 4,
+                      child: Padding(
+                        padding: EdgeInsets.all(50),
+                        child: Container(
+                          child: Text('Hello'),
+                        ),
+                      ),
+                    ),
+                  ),
+                  Padding(
+                    padding: EdgeInsets.only(left: 40),
+                    child: Card(
+                      elevation: 4,
+                      child: Padding(
+                        padding: EdgeInsets.all(50),
+                        child: Container(
+                          child: Text('Hello'),
+                        ),
+                      ),
+                    ),
+                  ),
+                  Padding(
+                    padding: EdgeInsets.only(left: 40),
+                    child: Card(
+                      elevation: 4,
+                      child: Padding(
+                        padding: EdgeInsets.all(50),
+                        child: Container(
+                          child: Text('Hello'),
+                        ),
+                      ),
+                    ),
+                  ),
+                ],
+              ),
